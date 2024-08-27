@@ -14,7 +14,7 @@
 
 - **Frontend:** React.js, HTML, CSS
 - **Backend:** Django (Python)
-- **Payment Gateway:** Razorpay
+- **Payment Gateway:** Razorpay integration
 - **Blockchain:** (Optional) NFT creation and management
 
 ## Getting Started
@@ -29,3 +29,4 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/VatsalyaGautam/stampify.git
+   ```
