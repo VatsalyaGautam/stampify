@@ -1,1 +1,1 @@
-## This folder is for # stylesheets
+## This folder is for stylesheets
