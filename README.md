@@ -28,4 +28,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/stampify.git
+   git clone https://github.com/VatsalyaGautam/stampify.git
