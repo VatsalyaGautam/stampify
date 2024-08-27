@@ -32,7 +32,7 @@ header {
 .hero-content {
   padding: 5rem 0;
   text-align: center;
-  background-image: url("/static/images/hero-background.jpeg"); /* Replace with your image */
+  background-image: url("../images/hero-background.jpeg"); /* Replace with your image */
   background-size: cover;
   background-position: center;
   color: #000000;
